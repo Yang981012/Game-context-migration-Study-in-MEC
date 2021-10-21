@@ -4,6 +4,6 @@ Due to the github size limitation, only main parts are uploaded.
 Main parts: network topolgy of all three labs, My application
 Check complete code in BlackBoard
 
-Don't forget to put three "ApplicationPacket" file in Inet->src->inet->application->base and replace old files.
+Don't forget to put three "ApplicationPacket" files in Inet->src->inet->application->base and replace old files.
 
 12th/sep/2021
